@@ -49,6 +49,7 @@ Covered
 1) Create React App
 2) Login GraphQL with your git user 
 3) Create Access token
-4) Create your Query 
+4) Create your Query ![Screen Shot 2024-02-01 at 11 24 16 PM](https://github.com/ponnuru/reactgraphqlpoc/assets/5709757/bc3e0dc6-3861-45fb-b363-b15fe95d9999)
+
 5) Integrate your Query and make a client side call
 6) Fetch and Render Data.
